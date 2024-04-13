@@ -1,17 +1,16 @@
 # Hello, I'm Shahbaz! 👋
 
-<div align="left"> <img src="https://komarev.com/ghpvc/?username=shbaaaaz&label=Profile%20views&color=0e75b6&style=flat" alt="shbaaaaz" /> </div>
+<div align="left"> <img src="https://komarev.com/ghpvc/?username=shahbazibnafzal&label=Profile%20views&color=0e75b6&style=flat" alt="shahbazibnafzal" /> </div>
 
 ## About Me
-I'm a passionate Frontend Engineer with over 6 years of experience in web development. 
-Originally from India, I have migrated to Germany to explore the vibrant tech landscape.
+I'm a Fullstack developer based in Germany. With over 6 years of industry experience in building different types of applications I specialize in Frontend Development.
 
 Apart from coding, I find joy in teaching web development, sharing my learnings, and exploring new places.
 
 ## Skills
 - **Frontend**: HTML5, CSS3, SASS, Tailwind, JavaScript, TypeScript, React, Redux, Jest, Next.js
 - **Backend**: Node.js, Express, Firebase
-- **Databases**: MongoDB, SQL Server, MySQL
+- **Databases**: MongoDB, SQL Server, PostgreSQL
 - **Version Control**: Git, GitHub
 - **CMS**: Wordpress, Contentful, Hygraph
 
@@ -30,7 +29,7 @@ Apart from coding, I find joy in teaching web development, sharing my learnings,
 Feel free to reach out for job opportunities, collaboration, or just to connect and chat about technology and web development! 
 
 
-<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shbaaaaz&show_icons=true&locale=en&layout=compact" alt="shbaaaaz" /></div>
+<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahbazibnafzal&show_icons=true&locale=en&layout=compact" alt="shahbazibnafzal" /></div>
 
 
-<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shbaaaaz&" alt="shbaaaaz" /></div>
+<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahbazibnafzal&" alt="shahbazibnafzal" /></div>
