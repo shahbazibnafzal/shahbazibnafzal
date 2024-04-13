@@ -4,7 +4,7 @@
 
 ## About Me
 - I'm a Fullstack developer based in Germany 🇩🇪.
-- 6 years of industry experience.
+- 6+ years of industry experience.
 - Specialize in Frontend Development.
 - Currently working for a Berlin based AI startup to build a conversational AI for insurance.
 
