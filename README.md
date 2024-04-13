@@ -20,14 +20,14 @@ Apart from coding, I find joy in teaching web development, sharing my learnings,
 ## What I Do
 - 🖥️ Building user-friendly and performant web applications.
 - 🌐 Embracing new technologies and methodologies to enhance development workflows.
-- 📝 Writing articles here: [Blogs](https://www.shahbazkhan.in/blog).
+- 📝 Writing articles here: [Blogs](https://www.shahbazibnafzal.com/blog).
 - 🎓 Sharing my knowledge and experience through teaching and social media.
 - 🌍 Exploring new places and capturing moments through film.
 
 ## Let's Connect!
-🌐 [Portfolio website](https://www.shahbazkhan.in/)
-🔗 [LinkedIn](https://www.linkedin.com/in/shbaaaaz/)
-📧 info@shahbazkhan.in
+🌐 [Portfolio website](https://www.shahbazibnafzal.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/shahbazibnafzal)
+📧 [Contact](https://www.shahbazibnafzal.com/contact)
 
 Feel free to reach out for job opportunities, collaboration, or just to connect and chat about technology and web development! 
 
