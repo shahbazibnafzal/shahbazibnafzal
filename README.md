@@ -6,14 +6,15 @@
 - I'm a Fullstack developer based in Germany 🇩🇪.
 - 6+ years of industry experience.
 - Specialize in Frontend Development.
-- Currently working for a Berlin based AI startup to build a conversational AI for insurance.
+- Currently working for a Berlin based AI startup to build AI solutions for insurance.
 
 Apart from coding, I find joy in teaching web development, sharing my learnings, and exploring new places.
 
 ## Skills
 - **Frontend**: HTML5, CSS3, SASS, Tailwind, JavaScript, TypeScript, React, Redux, Jest, Next.js
-- **Backend**: Node.js, Express, Firebase
-- **Databases**: MongoDB, SQL Server, PostgreSQL
+- **Backend**: Node.js, Express
+- **Databases**: PostgreSQL, MongoDB, SQL Server
+- **ORMs/ODMs**: Prisma, Mongoose
 - **Version Control**: Git, GitHub
 - **CMS**: Wordpress, Contentful, Hygraph
 
